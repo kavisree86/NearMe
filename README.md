@@ -1,4 +1,4 @@
-<img width="959" alt="image" src="https://github.com/kavisree86/NearMe/assets/145759687/7a7ddd88-425c-4f6d-bb0a-20a09f6d3c27"># Ex04 Places Around Me
+# Ex04 Places Around Me
 ## AIM
 To develop a website to display details about the places around my house.
 
